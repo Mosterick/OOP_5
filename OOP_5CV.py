@@ -2,7 +2,7 @@
 print("Hello world and welcome to the game FizBuz")
 print()
 
-x = 50
+x = 40
 for i in range (1,x+1):
     if i % 15 == 0:
         print("FizzBuzz")
